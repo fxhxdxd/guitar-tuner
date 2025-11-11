@@ -1,4 +1,4 @@
-# Online Tuner
+# Guitar Tuner
 
 A small browser-based musical tuner (guitar tuner) implemented with JavaScript and the pitch detection library.
 
